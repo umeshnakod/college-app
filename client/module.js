@@ -1,0 +1,1 @@
+var graphZone = angular.module('graphZone',[]);

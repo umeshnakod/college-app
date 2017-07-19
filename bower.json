@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "description": "sample",
+  "main": "index.js",
+  "authors": [
+    "Umesh"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/umeshnakod/college-app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
+}
